@@ -11,6 +11,7 @@ pandas = "*"
 mysql-connector-python = "*"
 sqlalchemy = "*"
 "mysql.connector" = "*"
+requests-html = "*"
 
 [requires]
 python_version = "3.8"
